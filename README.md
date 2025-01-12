@@ -1,0 +1,1 @@
+course from https://cursos.alura.com.br/course/mlflow-gestao-ciclo-vidas-modelos-ml
