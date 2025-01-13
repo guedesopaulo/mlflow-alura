@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paulo/Documents/mlflow-alura/notebooks/mlruns/400848448657434686/fbb6cceeecb140578be1ee1a97c38f00/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '400848448657434686'
+lifecycle_stage: active
+run_id: fbb6cceeecb140578be1ee1a97c38f00
+run_name: rogue-moth-413
+run_uuid: fbb6cceeecb140578be1ee1a97c38f00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736728814439
+status: 1
+tags: []
+user_id: Paulo

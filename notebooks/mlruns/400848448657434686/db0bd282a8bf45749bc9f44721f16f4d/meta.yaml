@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paulo/Documents/mlflow-alura/notebooks/mlruns/400848448657434686/db0bd282a8bf45749bc9f44721f16f4d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '400848448657434686'
+lifecycle_stage: active
+run_id: db0bd282a8bf45749bc9f44721f16f4d
+run_name: silent-hound-596
+run_uuid: db0bd282a8bf45749bc9f44721f16f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736805285063
+status: 1
+tags: []
+user_id: pog
