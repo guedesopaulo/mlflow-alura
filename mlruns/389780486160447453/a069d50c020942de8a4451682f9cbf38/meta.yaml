@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Paulo/Documents/mlflow-alura/mlruns/389780486160447453/a069d50c020942de8a4451682f9cbf38/artifacts
+end_time: 1736809176773
+entry_point_name: ''
+experiment_id: '389780486160447453'
+lifecycle_stage: active
+run_id: a069d50c020942de8a4451682f9cbf38
+run_name: bustling-wolf-566
+run_uuid: a069d50c020942de8a4451682f9cbf38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736809174345
+status: 3
+tags: []
+user_id: pog

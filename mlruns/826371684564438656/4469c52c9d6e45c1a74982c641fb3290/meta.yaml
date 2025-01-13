@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Paulo/Documents/mlflow-alura/mlruns/826371684564438656/4469c52c9d6e45c1a74982c641fb3290/artifacts
+end_time: 1736806784856
+entry_point_name: ''
+experiment_id: '826371684564438656'
+lifecycle_stage: active
+run_id: 4469c52c9d6e45c1a74982c641fb3290
+run_name: magnificent-eel-591
+run_uuid: 4469c52c9d6e45c1a74982c641fb3290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736806784394
+status: 3
+tags: []
+user_id: pog

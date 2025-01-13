@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Paulo/Documents/mlflow-alura/mlruns/826371684564438656/4e8418d2794f48ce86b5035e684f86f6/artifacts
+end_time: 1736806847563
+entry_point_name: ''
+experiment_id: '826371684564438656'
+lifecycle_stage: active
+run_id: 4e8418d2794f48ce86b5035e684f86f6
+run_name: enthused-shrew-97
+run_uuid: 4e8418d2794f48ce86b5035e684f86f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736806847339
+status: 4
+tags: []
+user_id: pog

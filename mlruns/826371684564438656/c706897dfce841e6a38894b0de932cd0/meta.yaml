@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Paulo/Documents/mlflow-alura/mlruns/826371684564438656/c706897dfce841e6a38894b0de932cd0/artifacts
+end_time: 1736806890494
+entry_point_name: ''
+experiment_id: '826371684564438656'
+lifecycle_stage: active
+run_id: c706897dfce841e6a38894b0de932cd0
+run_name: upset-stork-643
+run_uuid: c706897dfce841e6a38894b0de932cd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736806888652
+status: 3
+tags: []
+user_id: pog

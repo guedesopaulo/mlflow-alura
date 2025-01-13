@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Paulo/Documents/mlflow-alura/mlruns/902847716791948533/3485fe84571b4c33b168bf242fcbc8b1/artifacts
+end_time: 1736808955590
+entry_point_name: ''
+experiment_id: '902847716791948533'
+lifecycle_stage: active
+run_id: 3485fe84571b4c33b168bf242fcbc8b1
+run_name: clumsy-pig-255
+run_uuid: 3485fe84571b4c33b168bf242fcbc8b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736808952446
+status: 3
+tags: []
+user_id: pog

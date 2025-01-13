@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Paulo/Documents/mlflow-alura/mlruns/826371684564438656/cc7640c0062a436a906887e546e4d178/artifacts
+end_time: 1736806737519
+entry_point_name: ''
+experiment_id: '826371684564438656'
+lifecycle_stage: active
+run_id: cc7640c0062a436a906887e546e4d178
+run_name: capricious-skunk-388
+run_uuid: cc7640c0062a436a906887e546e4d178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736806510451
+status: 3
+tags: []
+user_id: pog

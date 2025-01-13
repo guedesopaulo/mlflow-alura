@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Paulo/Documents/mlflow-alura/notebooks/mlruns/400848448657434686/5bbe826d0a6e4950b5705537bcde710c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '400848448657434686'
+lifecycle_stage: active
+run_id: 5bbe826d0a6e4950b5705537bcde710c
+run_name: crawling-fly-27
+run_uuid: 5bbe826d0a6e4950b5705537bcde710c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736805808026
+status: 1
+tags: []
+user_id: pog
